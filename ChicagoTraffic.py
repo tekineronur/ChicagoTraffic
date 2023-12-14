@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # Onur Tekiner
-# Data visualization 
 # Project
 # 
 
